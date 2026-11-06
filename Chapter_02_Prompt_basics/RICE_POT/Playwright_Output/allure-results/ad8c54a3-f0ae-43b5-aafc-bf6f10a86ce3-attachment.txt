@@ -1,0 +1,2 @@
+[framework] starting: signs in with configured credentials
+[framework] finished: signs in with configured credentials (skipped)
